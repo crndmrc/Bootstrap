@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed32bea4-7f67-44a7-b2dc-922657de83db": {
+      "ProjectGuid": "ed32bea4-7f67-44a7-b2dc-922657de83db",
+      "DisplayName": "Bootstrap",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
